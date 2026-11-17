@@ -1,9 +1,5 @@
 # **Hackathon 2026 – Full Stack Web Application**
 
-### **Assignment Submission Report**
-
-**Submitted by:** *Anurup Mishra, CSE, NIT Silchar*
-**Live Website:** [https://hackathon-frontend1-iy6j.onrender.com](https://hackathon-frontend1-iy6j.onrender.com)
 **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
 
 ---
